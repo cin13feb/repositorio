@@ -8,3 +8,4 @@ equipo
 ------
 
 + Andres Hernandez
++ Cinthia Rodríguez
